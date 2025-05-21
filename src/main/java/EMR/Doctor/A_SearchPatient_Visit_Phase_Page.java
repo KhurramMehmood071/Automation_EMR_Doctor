@@ -62,7 +62,7 @@ public class A_SearchPatient_Visit_Phase_Page {
 
 		// In Dashboard Click on "Search Patient" Button
 
-		// Pauses for 4 second
+		// Pauses for 4 seconds
 		Thread.sleep(4000);
 
 		// Locate Snack-Br (Toast Message) and Press Ok Button

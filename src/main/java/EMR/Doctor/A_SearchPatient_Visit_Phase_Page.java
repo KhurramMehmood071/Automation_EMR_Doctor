@@ -33,7 +33,7 @@ public class A_SearchPatient_Visit_Phase_Page {
 
 		// **********************Open Browser****************
 
-		// Browser Open in Maximise Window
+		// Browser Open in Maximise Windowy
 		driver.manage().window().maximize();
 
 		// Open URL EMR Staging Site (Login Page)

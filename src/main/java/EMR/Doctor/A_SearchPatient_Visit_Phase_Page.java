@@ -41,8 +41,8 @@ public class A_SearchPatient_Visit_Phase_Page {
 
 		// *********************Login Page********************
 
-		// Pauses for 1 second
-		Thread.sleep(1000);
+		// Pauses for 2 second
+		Thread.sleep(2000);
 
 		// Locate User name By CSS Locator -- [tag#id] -- CSS Locator # 01
 		driver.findElement(By.cssSelector("input#mat-input-0")).sendKeys("sabeen.shah@aku.edu");

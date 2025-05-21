@@ -33,7 +33,7 @@ public class A_SearchPatient_Visit_Phase_Page {
 
 		// **********************Open Browser****************
 
-		// Browser Open in Maximise Windowy
+		// Browser Open in Maximise Window
 		driver.manage().window().maximize();
 
 		// Open URL EMR Staging Site (Login Page)
@@ -41,7 +41,7 @@ public class A_SearchPatient_Visit_Phase_Page {
 
 		// *********************Login Page********************
 
-		// Pauses for 2 second
+		// Pauses for 2 seconds
 		Thread.sleep(2000);
 
 		// Locate User name By CSS Locator -- [tag#id] -- CSS Locator # 01
